@@ -1,29 +1,32 @@
+# Data Analyst · Analytics Engineering · AI
 
-## Data Analyst · Analytics Engineering · AI
+### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
-> **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
-
-실무 데이터 기반 **Data Analysis → Data Engineering → Automation → AI Insight**
+**Data → Analytics → Automation → AI**
 
 ---
 
+## 🚀 Featured Projects
+
 ### 📈 Business Data & AI Dashboard
 
-**Business Data → BigQuery → AI Report → RAG**
+**분산 데이터 → BigQuery → AI Report → Comparison → RAG**
 
-온라인 교육 사업의 매출·마케팅·콘텐츠 데이터를 통합하고 **AI 리포트 생성, 과거 리포트 비교, RAG 검색**까지 연결한 데이터 플랫폼입니다.
+매출·마케팅·콘텐츠 데이터를 통합하여 성과 분석과 AI 리포트,
+과거 분석 비교 및 RAG 검색까지 연결한 업무용 데이터 플랫폼입니다.
 
-`Python` `Streamlit` `BigQuery` `Cloud Run` `Gemini` `RAG`
+`BigQuery` `Streamlit` `Airflow` `Gemini` `RAG`
 
-[View Project →](https://github.com/qkrwlfjddl/All_Data_DashBorad)
+[View Project →](https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard)
 
 ---
 
 ### 🔄 HANA → BigQuery Data Pipeline
 
-**SAP HANA → Cloud Run → BigQuery → Airflow**
+**SAP HANA → Airflow → Cloud Run → BigQuery**
 
-반복적인 데이터 적재를 자동화하고 **YAML 기반 configuration-driven pipeline**을 구축하여 신규 테이블 확장이 가능하도록 설계했습니다.
+분산된 원천 데이터를 BigQuery로 통합하는 데이터 파이프라인입니다.
+**Business Data & AI Dashboard의 데이터 통합 계층으로 연결됩니다.**
 
 `Python` `SQL` `BigQuery` `Airflow` `Cloud Run`
 
@@ -31,15 +34,14 @@
 
 ---
 
-## 🚀 Featured Projects
-
 ### 📊 Marketing KPI & AI Insight
 
-**GA4 → BigQuery ML → Customer Segmentation → Vertex AI**
+**GA4 → Customer Segmentation → AI Insight**
 
-GA4 행동 데이터를 분석하고 고객 세그먼트와 이벤트 성과를 결합하여 **AI 기반 인사이트와 실행 방안**을 도출하는 분석 파이프라인을 구축했습니다.
+GA4 행동 데이터를 기반으로 고객을 세그먼트화하고,
+마케팅 성과와 결합하여 AI 기반 인사이트를 도출했습니다.
 
-`GA4` `BigQuery` `BigQuery ML` `Python` `Vertex AI`
+`GA4` `BigQuery ML` `Python` `Vertex AI`
 
 [View Project →](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
 
@@ -49,28 +51,20 @@ GA4 행동 데이터를 분석하고 고객 세그먼트와 이벤트 성과를 
 
 ### LMS Student Analysis & Curriculum Recommendation
 
-LMS 데이터를 활용해 학생 학습 특성을 분석하고 **학생 유형별 맞춤형 커리큘럼을 제안**한 연구 프로젝트입니다.
+LMS 데이터를 활용한 학생 특성 분석 및 맞춤형 커리큘럼 추천 연구
 
 🏆 교내 대학혁신지원사업 우수 연구 사례
-
-`Statistics` `Machine Learning` `Clustering` `Python`
 
 [View Project →](https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec)
 
 ---
 
-## 💻 Tech Stac
-**Data**
-`Python` `SQL` `BigQuery` `GA4`
+## 🛠️ Tech
 
-**Data Engineering**
-`Airflow` `Cloud Composer` `Cloud Run` `SAP HANA`
-
-**AI / ML**
-`BigQuery ML` `Vertex AI` `LLM` `RAG`
+`Python` `SQL` `BigQuery` `GA4` `Airflow` `Cloud Run` `Vertex AI` `Streamlit` `RAG`
 
 ---
 
 <p align="center">
-  <sub>📍 Seoul, Korea</sub>
+  <sub>Seoul, Korea</sub>
 </p>
