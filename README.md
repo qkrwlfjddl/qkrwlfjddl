@@ -1,6 +1,6 @@
 # 박지영
 
-실무 데이터를 기반으로 **Data Analysis → Data Engineering → Automation → AI Insight**까지 연결하고 있습니다.
+실무 데이터를 기반 **Data Analysis → Data Engineering → Automation → AI Insight**
 > **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
 
 ---
