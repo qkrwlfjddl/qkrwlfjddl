@@ -4,7 +4,7 @@
 
 > **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
 
-실무 데이터를 기반으로 **Data Analysis → Data Engineering → Automation → AI Insight**까지 연결하는 일을 하고 있습니다.
+실무 데이터를 기반으로 **Data Analysis → Data Engineering → Automation → AI Insight**까지 연결하고 있습니다.
 
 ---
 
@@ -86,7 +86,7 @@ LMS 데이터를 활용해 학생 학습 특성을 분석하고 **학생 유형�
 * 📊 데이터 분석과 Analytics Engineering 역량 확장
 * ☁️ GCP 기반 데이터 파이프라인 구축
 * 🤖 LLM / RAG를 활용한 분석 자동화
-* 🚀 데이터 분석 결과를 실제 업무 시스템으로 연결하는 방법을 고민하고 있습니다.
+* 🚀 데이터 분석 결과를 실제 업무 시스템으로 연결
 
 ---
 
