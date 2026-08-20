@@ -2,79 +2,141 @@
 
 ### Data Analyst · Analytics Engineering · AI
 
-실무 데이터를 기반으로 **분석 → 데이터 파이프라인 → 자동화 → AI 인사이트**까지 연결하는 일을 하고 있습니다.
+> **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
 
-주로 다음과 같은 문제를 해결해왔습니다.
-
-* SQL / BigQuery 기반 데이터 분석 및 데이터 모델링
-* GA4 데이터를 활용한 고객 행동 및 마케팅 성과 분석
-* Airflow / GCP 기반 데이터 파이프라인 구축 및 자동화
-* 대시보드를 통한 반복적인 데이터 분석 업무 자동화
-* LLM / Vertex AI를 활용한 데이터 기반 인사이트 도출
+실무 데이터를 기반으로
+**Data Analysis → Data Engineering → Automation → AI Insight**까지 연결하는 일을 하고 있습니다.
 
 ---
 
-## Featured Projects
+## 🛠️ What I Do
 
-### 📊 Marketing KPI & AI Insight
+|                         |                                                 |
+| ----------------------- | ----------------------------------------------- |
+| 📊 **Data Analytics**   | SQL · BigQuery · GA4 · KPI Analysis             |
+| 🔄 **Data Engineering** | Airflow · Cloud Composer · Cloud Run · SAP HANA |
+| 🤖 **AI / ML**          | BigQuery ML · Vertex AI · LLM                   |
+| 📈 **Visualization**    | Streamlit · Dashboard · Data Visualization      |
+
+---
+
+# 🚀 Featured Projects
+
+### 01 · Marketing KPI & AI Insight
 
 **GA4 → BigQuery ML → Customer Segmentation → Vertex AI**
 
-GA4 행동 데이터를 기반으로 고객 특성을 분석하고, 이벤트 성과와 결합하여 성과 원인과 실행 가능한 액션을 도출하는 분석 파이프라인을 구축했습니다.
+GA4 행동 데이터를 기반으로 고객 특성을 분석하고,
+이벤트 성과와 결합하여 **성과 원인과 실행 가능한 액션**을 도출하는 분석 파이프라인을 구축했습니다.
 
-[View Project](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
+**Key**
+
+* 👥 고객 행동 기반 Segmentation
+* 📊 이벤트 / 마케팅 성과 분석
+* 🤖 Vertex AI 기반 Insight 생성
+* 🔗 데이터 분석 → AI Action까지 연결
+
+**Tech**
+`GA4` `BigQuery` `BigQuery ML` `Python` `Vertex AI`
+
+[🔗 View Project →](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
 
 ---
 
-### 🔄 HANA → BigQuery Data Pipeline
+### 02 · HANA → BigQuery Data Pipeline
 
 **SAP HANA → Cloud Run → BigQuery → Airflow / Cloud Composer**
 
-반복적인 데이터 적재 업무를 자동화하고, YAML 기반 configuration-driven 구조를 적용하여 새로운 테이블을 추가할 때 파이프라인 코드를 반복적으로 수정하지 않도록 설계했습니다.
+반복적인 데이터 적재 업무를 자동화하고,
+**YAML 기반 configuration-driven 구조**를 적용하여 새로운 테이블을 추가할 때 파이프라인 코드를 반복적으로 수정하지 않도록 설계했습니다.
 
-[View Project](https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow)
+**Key**
 
----
+* 🔄 SAP HANA → BigQuery ETL
+* ⚙️ Airflow / Cloud Composer 기반 스케줄링
+* ☁️ Cloud Run Job 기반 데이터 처리
+* 🧩 YAML 기반 확장 가능한 Pipeline
 
-### 📈 Business Data & AI Dashboard
+**Tech**
+`Python` `SQL` `BigQuery` `Airflow` `Cloud Composer` `Cloud Run`
 
-여러 업무 데이터를 통합하여 성과 분석과 반복적인 데이터 확인 업무를 하나의 대시보드에서 수행할 수 있도록 구축한 프로젝트입니다.
-
-[View Project](https://github.com/qkrwlfjddl/All_Data_DashBorad)
-
----
-
-## Tech Stack
-
-**Data**
-
-`SQL` `BigQuery` `GA4` `Python`
-
-**Data Engineering**
-
-`Airflow` `Cloud Composer` `Cloud Run` `SAP HANA`
-
-**AI / ML**
-
-`Vertex AI` `BigQuery ML` `Machine Learning` `LLM`
-
-**Analytics**
-
-`Data Visualization` `Dashboard` `KPI Analysis`
+[🔗 View Project →](https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow)
 
 ---
 
-## About Me
+### 03 · Business Data & AI Dashboard
 
-데이터를 단순히 분석하는 것에서 끝내기보다,
+**Business Data → BigQuery → Dashboard → AI Report → RAG**
 
-**데이터를 수집하고 → 정리하고 → 분석하고 → 자동화하고 → 실제 의사결정에 활용할 수 있는 형태로 만드는 것**
+온라인 교육 사업의 매출·마케팅·콘텐츠 데이터를 통합하고,
+성과 분석부터 **AI 리포트 생성 · 과거 리포트 비교 · RAG 검색**까지 연결한 데이터 플랫폼입니다.
 
-에 관심이 있습니다.
+**Key**
 
-현재는 데이터 분석과 데이터 엔지니어링의 경계를 넘나들며,
-AI를 활용해 반복적인 분석 업무를 줄이고 데이터 기반 의사결정을 지원하는 방법을 고민하고 있습니다.
+* 📊 매출 / 마케팅 / 콘텐츠 성과 통합
+* ⚡ 반복적인 성과 분석 및 리포트 자동화
+* 🤖 AI 기반 분석 리포트 생성
+* 🔍 BigQuery VECTOR_SEARCH 기반 RAG
+* 🔄 과거 리포트 비교 분석
+
+**Tech**
+`Python` `Streamlit` `BigQuery` `Cloud Run` `Gemini` `Vertex AI` `RAG`
+
+[🔗 View Project →](https://github.com/qkrwlfjddl/All_Data_DashBorad)
 
 ---
 
-📍 Seoul, Korea
+## 📚 Research
+
+### LMS 기반 학생 특성 분석 & 맞춤형 커리큘럼 추천
+
+LMS 학습 데이터를 활용하여 학생들의 학습 특성을 분석하고,
+학생 유형을 분류하여 **유형별 맞춤형 교육과정을 제안한 연구 프로젝트**입니다.
+
+🏆 교내 대학혁신지원사업 우수 연구 사례 선정
+
+`Statistics` `Python` `Machine Learning` `Clustering` `Data Analysis`
+
+[🔗 View Project →](https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec)
+
+---
+
+# 💻 Tech Stack
+
+### Data & Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square\&logo=googleanalytics\&logoColor=white)
+
+### Data Engineering
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+
+### AI / ML
+
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square)
+
+### Visualization
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+---
+
+## 🎯 Currently
+
+* 📊 데이터 분석과 Analytics Engineering 역량 확장
+* ☁️ GCP 기반 데이터 파이프라인 구축
+* 🤖 LLM / RAG를 활용한 분석 자동화
+* 🚀 데이터 분석 결과를 실제 업무 시스템으로 연결하는 방법을 고민하고 있습니다.
+
+---
+
+<p align="center">
+  <sub>📍 Seoul, Korea</sub>
+</p>
