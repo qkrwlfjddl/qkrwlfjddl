@@ -7,17 +7,15 @@
 
 ---
 
-## 🚀 Featured Projects
+### 📈 Business Data & AI Dashboard
 
-### 📊 Marketing KPI & AI Insight
+**Business Data → BigQuery → AI Report → RAG**
 
-**GA4 → BigQuery ML → Customer Segmentation → Vertex AI**
+온라인 교육 사업의 매출·마케팅·콘텐츠 데이터를 통합하고 **AI 리포트 생성, 과거 리포트 비교, RAG 검색**까지 연결한 데이터 플랫폼입니다.
 
-GA4 행동 데이터를 분석하고 고객 세그먼트와 이벤트 성과를 결합하여 **AI 기반 인사이트와 실행 방안**을 도출하는 분석 파이프라인을 구축했습니다.
+`Python` `Streamlit` `BigQuery` `Cloud Run` `Gemini` `RAG`
 
-`GA4` `BigQuery` `BigQuery ML` `Python` `Vertex AI`
-
-[View Project →](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
+[View Project →](https://github.com/qkrwlfjddl/All_Data_DashBorad)
 
 ---
 
@@ -33,15 +31,17 @@ GA4 행동 데이터를 분석하고 고객 세그먼트와 이벤트 성과를 
 
 ---
 
-### 📈 Business Data & AI Dashboard
+## 🚀 Featured Projects
 
-**Business Data → BigQuery → AI Report → RAG**
+### 📊 Marketing KPI & AI Insight
 
-온라인 교육 사업의 매출·마케팅·콘텐츠 데이터를 통합하고 **AI 리포트 생성, 과거 리포트 비교, RAG 검색**까지 연결한 데이터 플랫폼입니다.
+**GA4 → BigQuery ML → Customer Segmentation → Vertex AI**
 
-`Python` `Streamlit` `BigQuery` `Cloud Run` `Gemini` `RAG`
+GA4 행동 데이터를 분석하고 고객 세그먼트와 이벤트 성과를 결합하여 **AI 기반 인사이트와 실행 방안**을 도출하는 분석 파이프라인을 구축했습니다.
 
-[View Project →](https://github.com/qkrwlfjddl/All_Data_DashBorad)
+`GA4` `BigQuery` `BigQuery ML` `Python` `Vertex AI`
+
+[View Project →](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
 
 ---
 
