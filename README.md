@@ -1,5 +1,8 @@
 
+## Data Analyst · Analytics Engineering · AI
+
 > **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
+
 실무 데이터 기반 **Data Analysis → Data Engineering → Automation → AI Insight**
 
 ---
@@ -71,10 +74,3 @@ LMS 데이터를 활용해 학생 학습 특성을 분석하고 **학생 유형�
 <p align="center">
   <sub>📍 Seoul, Korea</sub>
 </p>
-
-
-# 박지영
-
-### Data Analyst · Analytics Engineering · AI
-
-> **데이터를 분석하고, 자동화하고, AI로 연결합니다.**
