@@ -1,4 +1,3 @@
-# Data Analyst · Analytics Engineering · AI
 
 ### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
