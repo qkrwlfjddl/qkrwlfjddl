@@ -70,6 +70,8 @@ View →
 
 <br>
 
+----
+
 <div align="center">
 
 <table>
