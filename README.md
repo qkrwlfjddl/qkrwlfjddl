@@ -14,8 +14,6 @@
 
 AI 기반 성과 분석 플랫폼
 
-<br>
-
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
 </a>
@@ -28,8 +26,6 @@ View →
 
 SAP HANA 데이터 통합 파이프라인
 
-<br>
-
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
 </a>
@@ -41,8 +37,6 @@ View →
 #### 📊 Marketing KPI & AI
 
 GA4 기반 마케팅 성과 분석
-
-<br>
 
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
 View →
@@ -59,8 +53,6 @@ View →
 **LMS Student Analysis & Curriculum Recommendation**
 
 🏆 대학혁신지원사업 우수 연구 사례
-
-<br>
 
 <a href="https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec">
 View →
