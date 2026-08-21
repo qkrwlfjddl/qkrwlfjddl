@@ -2,12 +2,6 @@
 
 ### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
-<br>
-
-<img src="./tech-stack-final-v2.svg" width="100%">
-
-<br>
-
 ## Featured Projects
 
 <table>
