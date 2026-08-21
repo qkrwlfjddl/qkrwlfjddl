@@ -1,17 +1,16 @@
 <div align="center">
   
-### From Data to AI.
-  
+## From Data to AI.
 <sub> **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
 
-#### 📌 Projects
+###📌 Projects
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-##### 📈 Business Data & AI
+#### 📈 Business Data & AI
 
 AI 기반 성과 분석 플랫폼
 
@@ -25,7 +24,7 @@ View →
 
 <td align="center" width="33%">
 
-##### 🔄 HANA → BigQuery
+#### 🔄 HANA → BigQuery
 
 SAP HANA 데이터 통합 파이프라인
 
@@ -39,7 +38,7 @@ View →
 
 <td align="center" width="33%">
 
-##### 📊 Marketing KPI & AI
+#### 📊 Marketing KPI & AI
 
 GA4 기반 마케팅 성과 분석
 
@@ -55,7 +54,7 @@ View →
 </table>
 
 
-#### 📚 Research
+### 📚 Research
 
 **LMS Student Analysis & Curriculum Recommendation**
 
@@ -73,7 +72,7 @@ View →
 
 <div align="center">
   
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
