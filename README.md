@@ -52,9 +52,8 @@ View →
 </tr>
 </table>
 
----------------
 
-### 📚 Research
+#### 📚 Research
 
 **LMS Student Analysis & Curriculum Recommendation**
 
