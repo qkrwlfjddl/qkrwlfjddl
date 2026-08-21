@@ -52,7 +52,7 @@ View →
 </tr>
 </table>
 
-<br>
+---------------
 
 ### 📚 Research
 
