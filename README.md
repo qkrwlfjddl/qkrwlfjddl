@@ -2,7 +2,7 @@
 
 ### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
-## Featured Projects
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -54,7 +54,7 @@ View →
 
 <br>
 
-## Research
+## 📚 Research
 
 **LMS Student Analysis & Curriculum Recommendation**
 
