@@ -2,7 +2,7 @@
 
 ### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
-### <sub>Data Analyst · Analytics Engineering · AI</sub>
+<sub> Data Analyst · Analytics Engineering · AI</sub>
 
 `Data → Analytics → Automation → AI`
 
@@ -104,14 +104,7 @@
 
 ## 📚 Research
 
-**LMS Student Analysis & Curriculum Recommendation** · 🏆 대학혁신지원사업 우수 연구 사례
+**LMS Student Analysis & Curriculum Recommendation** 
+🏆 교내 대학혁신지원사업 우수 연구 사례 
 
-[View →](https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec)
-
-<div align="center">
-
-<br>
-
-`Python` · `SQL` · `BigQuery` · `Airflow` · `GA4` · `Vertex AI` · `RAG`
-
-</div>
+[View Project →](https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec)
