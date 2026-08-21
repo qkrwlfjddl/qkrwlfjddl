@@ -1,75 +1,30 @@
 <div align="center">
 
-## **데이터를 통합하고, 분석하고, AI로 활용합니다.**
+### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
+
+<sub>Data Analyst · Analytics Engineering · AI</sub>
 
 <br>
 
 <img src="./tech-stack-final.svg" width="100%">
 
-</div>
-
 <br>
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td align="center" width="33%" valign="top">
-
-### 📈 Business Data & AI
-
-매출·마케팅 데이터를 통합한  
-**AI 기반 성과 분석 플랫폼**
-
-`BigQuery` `Airflow` `Gemini` `RAG`
+<img src="./featured-projects-final.svg" width="100%">
 
 <br>
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
-View Project →
+Business Data & AI Dashboard
 </a>
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🔄 HANA → BigQuery
-
-SAP HANA 데이터를 통합하는  
-**데이터 파이프라인**
-
-`Python` `SQL` `Airflow` `Cloud Run`
-
-<br>
-
+&nbsp; · &nbsp;
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
-View Project →
+HANA → BigQuery
 </a>
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 📊 Marketing KPI & AI
-
-GA4 데이터를 활용한  
-**마케팅 성과 분석 및 AI 인사이트**
-
-`GA4` `BigQuery ML` `Vertex AI`
-
-<br>
-
+&nbsp; · &nbsp;
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
-View Project →
+Marketing KPI & AI
 </a>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -96,7 +51,5 @@ View Project →
 <br>
 
 <div align="center">
-
 <sub>Seoul, Korea</sub>
-
 </div>
