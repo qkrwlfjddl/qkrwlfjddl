@@ -1,6 +1,7 @@
 <div align="center">
 ## From Data to AI.
-### **데이터를 연결하고, 분석하고, AI로 확장합니다.**
+  
+<sub> **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
 
 #### 📌 Featured Projects
 
