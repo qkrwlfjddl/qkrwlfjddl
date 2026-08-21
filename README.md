@@ -2,14 +2,14 @@
 
 ### **데이터를 통합하고, 분석하고, AI로 활용합니다.**
 
-## 📌 Featured Projects
+#### 📌 Featured Projects
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### 📈 Business Data & AI
+#### 📈 Business Data & AI
 
 AI 기반 성과 분석 플랫폼
 
@@ -23,7 +23,7 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANA → BigQuery
+#### 🔄 HANA → BigQuery
 
 SAP HANA 데이터 통합 파이프라인
 
@@ -37,7 +37,7 @@ View →
 
 <td align="center" width="33%">
 
-### 📊 Marketing KPI & AI
+#### 📊 Marketing KPI & AI
 
 GA4 기반 마케팅 성과 분석
 
@@ -54,7 +54,7 @@ View →
 
 <br>
 
-## 📚 Research
+### 📚 Research
 
 **LMS Student Analysis & Curriculum Recommendation**
 
