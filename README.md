@@ -1,18 +1,18 @@
 <div align="center">
   
 # ✨ From Data to AI.
-#### **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
+### **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
 
-### 📌 Projects
+## 📌 Projects
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-#### 📈 Business Data & AI
+### 📈 Business Data & AI
 
-AI, RAG 기반 성과 분석 플랫폼
+**AI, RAG** 기반 성과 분석 플랫폼
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -22,7 +22,7 @@ View →
 
 <td align="center" width="33%">
 
-#### 🔄 HANA → BigQuery
+### 🔄 HANA → BigQuery
 
 Airflow를 이용한 SAP HANA 데이터 통합 파이프라인
 
@@ -34,7 +34,7 @@ View →
 
 <td align="center" width="33%">
 
-#### 📊 Marketing KPI & AI
+### 📊 Marketing KPI & AI
 
 GA4 기반 마케팅 성과 분석
 
@@ -48,7 +48,7 @@ View →
 </table>
 
 
-### 📚 Research
+## 📚 Research
 
 **LMS Student Analysis & Curriculum Recommendation**
 
