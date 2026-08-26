@@ -1,7 +1,7 @@
 <div align="center">
   
-# ✨ From Data to AI.
-### **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
+## ✨ From Data to AI.
+#### **데이터를 연결하고, 분석하고, AI로 확장합니다.** </sub>
 
 ### 📌 Projects
 
@@ -52,7 +52,7 @@ View →
 
 **LMS Student Analysis & Curriculum Recommendation**
 
-🏆 대학혁신지원사업 우수 연구 사례
+🏆 **대학혁신지원사업 우수 연구 사례**
 
 <a href="https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec">
 View →
