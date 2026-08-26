@@ -12,7 +12,7 @@
 
 #### 📈 Business Data & AI
 
-AI 기반 성과 분석 플랫폼
+AI, RAG 기반 성과 분석 플랫폼
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -24,7 +24,7 @@ View →
 
 #### 🔄 HANA → BigQuery
 
-SAP HANA 데이터 통합 파이프라인
+Airflow를 이용한 SAP HANA 데이터 통합 파이프라인
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
