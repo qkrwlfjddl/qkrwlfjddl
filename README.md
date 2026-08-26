@@ -1,82 +1,78 @@
 <div align="center">
+  
+# ✨ From Data to AI.
+### **데이터를 연결하고, 분석하고, AI로 확장합니다.**
 
-# ✨ From Data to AI
+### 📌 Projects
 
-### 업무 데이터를 연결하고, 분석하고, AI로 확장하는 개발자
+<table>
+<tr>
 
-**Data Engineering · Business System · AI Application**
+<td align="center" width="33%">
 
-</div>
+### 📈 Business Data & AI
 
----
+**성과 분석 · AI 리포트 · RAG 플랫폼**
 
-## 🚀 Projects
+<a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
+View →
+</a>
 
-### 📈 Business Data & AI Dashboard
+</td>
 
-**통합 성과 분석 · AI 리포트 · RAG 기반 업무 플랫폼**
+<td align="center" width="33%">
 
-SAP · GA4 · 콘텐츠 데이터를 BigQuery로 통합하고
-성과 분석부터 **AI 리포트 · 과거 리포트 비교 · RAG 검색**까지 연결했습니다.
+### 🔄 HANA → BigQuery
 
-`Python` `BigQuery` `Streamlit` `Cloud Run` `Vertex AI` `Gemini` `RAG`
+**Airflow 기반 데이터 통합 파이프라인**
 
-👉 [View Project](https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard)
+<a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
+View →
+</a>
 
----
+</td>
 
-### 🔄 SAP HANA → BigQuery Pipeline
+<td align="center" width="33%">
 
-**Airflow 기반 데이터 적재 자동화**
-
-SAP HANA 데이터를 BigQuery로 적재하는 파이프라인을 구축하고,
-**YAML + SQL만 추가하면 테이블별 DAG가 자동 생성**되도록 설계했습니다.
-
-`Python` `Airflow` `Cloud Composer` `SAP HANA` `BigQuery` `Cloud Run`
-
-👉 [View Project](https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow)
-
----
-
-### 📊 Marketing KPI & AI Insight
+### 📊 Marketing KPI & AI
 
 **GA4 기반 마케팅 성과 분석**
 
-GA4 데이터를 기반으로 매체·채널별 KPI와 전환 성과를 분석하고
-AI를 활용해 주요 변화와 인사이트를 도출했습니다.
+<a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
+View →
+</a>
 
-👉 [View Project](https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight)
+</td>
 
----
+</tr>
+</table>
 
-### 🎓 LMS Student Analysis
+### 📚 Research
 
-**학습 데이터 기반 교육과정 추천**
+**LMS Student Analysis & Curriculum Recommendation**
 
-학생 학습 데이터를 분석하고 학습 패턴을 기반으로
-교육과정을 추천하는 데이터 분석 프로젝트입니다.
+🏆 **대학혁신지원사업 우수 연구 사례**
 
-🏆 대학혁신지원사업 우수 연구 사례
+<a href="https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec">
+View →
+</a>
 
-👉 [View Project](https://github.com/qkrwlfjddl/UNIV_STD_Curriculum_Rec)
+</div>
 
----
-
-## 🛠️ Tech Stack
-
-**Data**
-`Python` `SQL` `BigQuery` `SAP HANA` `GA4`
-
-**Engineering**
-`Airflow` `Cloud Run` `Docker` `Cloud Build`
-
-**AI**
-`Vertex AI` `Gemini` `RAG`
-
----
+<br>
 
 <div align="center">
+  
+### 🛠️ Tech Stack
 
-**Data → Pipeline → Analytics → AI**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-412991?style=flat&logoColor=white">
 
 </div>
