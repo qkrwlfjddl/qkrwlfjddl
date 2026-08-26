@@ -24,7 +24,7 @@ View →
 
 ### 🔄 HANA → BigQuery
 
-Airflow를 이용한 SAP HANA 데이터 통합 파이프라인
+**Airflow**를 이용한 SAP HANA 데이터 통합 파이프라인
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
