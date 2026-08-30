@@ -36,7 +36,7 @@ View →
 
 <td align="center" width="33%">
 
-### 📊 고객 행동 & 마케팅 성과 분석
+### 📊 고객 행동 & 마케팅 성과
 ##### Marketing KPI & AI
 
 **GA4 기반 마케팅 성과 분석**
