@@ -10,8 +10,8 @@
 
 <td align="center" width="33%">
 
-### 📈 통합 데이터 분석 시스템  
-##### Business Data & AI
+### 📈 Business Data & AI
+##### 비지니스 통합 데이터 분석 시스템  
 
 **성과 분석 · AI 리포트 · RAG 플랫폼**
 
@@ -36,8 +36,9 @@ View →
 
 <td align="center" width="33%">
 
-### 📊 고객 행동 & 마케팅 성과
-##### Marketing KPI & AI
+### 📊 Marketing KPI & AI
+##### 고객 행동 & 마케팅 성과 분석
+
 
 **GA4 기반 마케팅 성과 분석**
 
