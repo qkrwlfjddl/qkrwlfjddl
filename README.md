@@ -10,7 +10,9 @@
 
 <td align="center" width="33%">
 
-### 📈 Business Data & AI
+### 📈 비즈니스 통합 데이터 분석 시스템
+
+##### Business Data & AI
 
 **성과 분석 · AI 리포트 · RAG 플랫폼**
 
@@ -22,7 +24,7 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANA → BigQuery
+### 🔄 HANA → BigQuery 데이터 적재 자동화
 
 **Airflow 기반 데이터 통합 파이프라인**
 
@@ -34,7 +36,8 @@ View →
 
 <td align="center" width="33%">
 
-### 📊 Marketing KPI & AI
+### 📊 고객 행동 & 마케팅 성과 분석
+##### Marketing KPI & AI
 
 **GA4 기반 마케팅 성과 분석**
 
