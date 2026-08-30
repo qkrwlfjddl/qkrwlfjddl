@@ -24,7 +24,7 @@ View →
 <td align="center" width="33%">
 
 ### 🔄 HANA → BigQuery 
-### 데이터 적재 자동화
+##### 데이터 적재 자동화
 
 **Airflow 기반 데이터 통합 파이프라인**
 
