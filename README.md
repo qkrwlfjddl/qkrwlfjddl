@@ -10,7 +10,7 @@
 
 <td align="center" width="33%">
 
-### 📈 비즈니스 통합 데이터 분석 시스템
+### 📈 비즈니스 통합 분석 시스템
 
 ##### Business Data & AI
 
@@ -24,7 +24,8 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANA → BigQuery 데이터 적재 자동화
+### 🔄 HANA → BigQuery 
+### 데이터 적재 자동화
 
 **Airflow 기반 데이터 통합 파이프라인**
 
