@@ -11,7 +11,7 @@
 <td align="center" width="33%">
 
 ### 📈 Business Data & AI
-##### 비지니스 통합 데이터 분석 시스템  
+##### 통합 데이터 분석 시스템  
 
 **성과 분석 · AI 리포트 · RAG 플랫폼**
 
