@@ -25,7 +25,7 @@ View →
 ### 🔄 HANA → BigQuery 
 데이터 적재 자동화  
 
-Airflow 기반 Data Pipeline
+Airflow 기반 데이터 파이프라인
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
