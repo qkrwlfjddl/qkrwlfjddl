@@ -24,7 +24,7 @@ View →
 
 ### 🔄 HANA → BigQuery 
 
-**Airflow 기반 데이터 파이프라인**
+**Airflow 기반 Data Pipeline**
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
