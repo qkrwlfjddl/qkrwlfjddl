@@ -10,9 +10,9 @@
 
 <td align="center" width="33%">
 
-### 📈 Business Data & AI
+### 📈 Business Data & AI  
 
-**통합 데이터 분석 플랫폼**
+**통합 데이터 분석 플랫폼**  
 **Data Mart · BI · AI/RAG**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
