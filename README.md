@@ -22,7 +22,7 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANADB → BigQuery 적재 자동화  
+### 🔄 HANADB → BigQuery   적재 자동화  
 
 **Airflow 기반 데이터 파이프라인**
 
