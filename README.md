@@ -12,7 +12,7 @@
 
 ### 📈 Business Data & AI
 
-** 통합 성과 분석 · AI 리포트 · RAG 플랫폼**
+**통합 성과 분석 · AI 리포트 · RAG 플랫폼**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -22,7 +22,7 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANA → BigQuery 적재 자동화
+### 🔄 HANA → BigQuery 자동화
 
 **Airflow 기반 데이터 통합 파이프라인**
 
