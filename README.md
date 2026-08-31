@@ -12,7 +12,7 @@
 
 ### 📈 Business Data & AI
 
-**통합 데이터 성과 분석 · AI · RAG**
+통합 데이터 성과 분석 · AI · RAG
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -25,7 +25,7 @@ View →
 ### 🔄 HANA → BigQuery 
 데이터 적재 자동화  
 
-**Airflow 기반 Data Pipeline**
+Airflow 기반 Data Pipeline
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
@@ -37,8 +37,8 @@ View →
 
 ### 📊 Marketing KPI & AI
 
-**고객 행동 · 마케팅 성과**  
-**연관 분석**
+고객 행동 · 마케팅 성과   
+연관 분석
 
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
 View →
