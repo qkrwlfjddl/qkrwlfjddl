@@ -37,7 +37,7 @@ View →
 
 ### 📊 Marketing KPI & AI
 
-**GA4 기반 고객 행동 & 마케팅 성과 분석**
+**GA4 기반 고객 행동 & 마케팅 성과**
 
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
 View →
