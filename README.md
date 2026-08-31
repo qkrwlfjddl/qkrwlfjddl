@@ -11,9 +11,8 @@
 <td align="center" width="33%">
 
 ### 📈 Business Data & AI
-##### 통합 데이터 분석 시스템  
 
-**성과 분석 · AI 리포트 · RAG 플랫폼**
+** 통합 성과 분석 · AI 리포트 · RAG 플랫폼**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -23,8 +22,7 @@ View →
 
 <td align="center" width="33%">
 
-### 🔄 HANA → BigQuery 
-##### 데이터 적재 자동화
+### 🔄 HANA → BigQuery 적재 자동화
 
 **Airflow 기반 데이터 통합 파이프라인**
 
@@ -37,10 +35,8 @@ View →
 <td align="center" width="33%">
 
 ### 📊 Marketing KPI & AI
-##### 고객 행동 & 마케팅 성과 분석
 
-
-**GA4 기반 마케팅 성과 분석**
+**GA4 기반 고객 행동 & 마케팅 성과 분석**
 
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
 View →
