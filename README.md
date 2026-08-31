@@ -37,7 +37,7 @@ View →
 
 ### 📊 Marketing KPI & AI
 
-**고객 행동 & 마케팅 성과 연관 분석**
+**고객 행동 · 마케팅 성과 연관 분석**
 
 <a href="https://github.com/qkrwlfjddl/Marketing-KPI-AI-Insight">
 View →
