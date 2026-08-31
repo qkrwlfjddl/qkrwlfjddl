@@ -12,7 +12,7 @@
 
 ### 📈 Business Data & AI
 
-**통합 성과 분석 · AI · RAG**
+**통합 데이터 성과 분석 · AI · RAG**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
@@ -24,7 +24,7 @@ View →
 
 ### 🔄 HANA → BigQuery 자동화
 
-**Airflow 기반 데이터 통합 파이프라인**
+**Airflow 기반 데이터 파이프라인**
 
 <a href="https://github.com/qkrwlfjddl/HANA-BQ-ApacheAirflow">
 View →
