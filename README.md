@@ -12,7 +12,8 @@
 
 ### 📈 Business Data & AI
 
-**Data Platform · Data Mart · BI · AI/RAG**
+**통합 데이터 분석 플랫폼**
+**Data Mart · BI · AI/RAG**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
