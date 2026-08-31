@@ -12,7 +12,7 @@
 
 ### 📈 Business Data & AI
 
-**통합 성과 분석 · AI 리포트 · RAG 플랫폼**
+**통합 성과 분석 · AI · RAG**
 
 <a href="https://github.com/qkrwlfjddl/Business-Data-AI-Dashboard">
 View →
