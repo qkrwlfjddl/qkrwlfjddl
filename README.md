@@ -64,18 +64,6 @@ View →
 <br>
 
 <div align="center">
-  
-### 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white">
-<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/RAG-412991?style=flat&logoColor=white">
 
 ### 🛠️ Tech Stack
 
