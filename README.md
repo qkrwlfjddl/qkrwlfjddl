@@ -65,26 +65,71 @@ View →
 
 <div align="center">
 
+
 ### 🛠️ Tech Stack
 
-**☁️ Google Cloud**
+<table>
+  <tr>
+    <th colspan="5">☁️ Google Cloud</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td align="center"><b>Compute</b></td>
+    <td align="center"><b>Orchestration</b></td>
+    <td align="center"><b>Container · CI/CD</b></td>
+    <td align="center"><b>Ops · Security</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Cloud%20Run%20Jobs-4285F4?style=flat&logo=googlecloud&logoColor=white">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Cloud%20Scheduler-4285F4?style=flat&logo=googlecloud&logoColor=white">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Artifact%20Registry-4285F4?style=flat&logo=googlecloud&logoColor=white">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/IAM-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Cloud%20Logging-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/gcloud%20CLI-4285F4?style=flat&logo=googlecloud&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-**Data** &nbsp; <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black">
+<table>
+  <tr>
+    <th>🤖 AI</th>
+    <th>🔧 Language · Processing</th>
+    <th>🔗 Pipeline · Source</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/RAG-8E75B2?style=flat&logoColor=white">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/BigQuery%20SQL-669DF6?style=flat&logo=googlebigquery&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GA4%20→%20BigQuery-E37400?style=flat&logo=googleanalytics&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-**Compute** &nbsp; <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Run%20Jobs-4285F4?style=flat&logo=googlecloud&logoColor=white">
 
-**Orchestration** &nbsp; <img src="https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Scheduler-4285F4?style=flat&logo=googlecloud&logoColor=white">
-
-**Container · CI/CD** &nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Artifact%20Registry-4285F4?style=flat&logo=googlecloud&logoColor=white">
-
-**Ops · Security** &nbsp; <img src="https://img.shields.io/badge/IAM-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Logging-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/gcloud%20CLI-4285F4?style=flat&logo=googlecloud&logoColor=white">
-
-**🤖 AI**
-
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"> <img src="https://img.shields.io/badge/RAG-8E75B2?style=flat&logoColor=white">
-
-**🔧 Data Engineering**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/BigQuery%20SQL-669DF6?style=flat&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat&logo=sap&logoColor=white"> <img src="https://img.shields.io/badge/GA4%20→%20BigQuery-E37400?style=flat&logo=googleanalytics&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
 
 </div>
